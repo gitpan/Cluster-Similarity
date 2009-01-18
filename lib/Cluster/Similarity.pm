@@ -17,11 +17,11 @@ Cluster::Similarity - compute the similarity of two classifications.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-use version; our $VERSION = qv('0.01');
+use version; our $VERSION = qv('0.02');
 
 
 =head1 SYNOPSIS

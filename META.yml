@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Cluster-Similarity
-version:            v0.01
+version:            v0.02
 abstract:           compute the similarity of two classifications.
 author:
     - Ingrid Falk <ingrid.falk@loria.fr>
